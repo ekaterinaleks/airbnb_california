@@ -1,2 +1,1 @@
-Exploratory Data Analysis and Data Visualization with Tableau with the aim of prospecting short-term rental market in the areas of California state: Big Bear and
-Joshua Tree.
+Exploratory Data Analysis with Python and [Data Visualization with Tableau](https://public.tableau.com/views/Visualization_airbnb_properties/MarketAnalysisandPropertiesforSale?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) with the goal of prospecting short-term rental market in the areas of California state: Big Bear and Joshua Tree.
